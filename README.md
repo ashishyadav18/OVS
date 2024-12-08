@@ -76,34 +76,9 @@ DOWNLOAD "Online Voting Management System Project"
 
 9. Use the Following Credential to log into the Admin Session
    
-   `username:  crce`
+   `username:  rcdu`
    
    `password:  password`
    
 <br>
 
-## RESULTS
-
-![admin_login](https://user-images.githubusercontent.com/72904996/121797630-16a74900-cc3f-11eb-9762-3be8ae1cb6e8.png)
-
-![voter login](https://user-images.githubusercontent.com/72904996/121797592-c29c6480-cc3e-11eb-99e1-ed2268593f54.png)
-
-![dashboard](https://user-images.githubusercontent.com/72904996/121797542-7cdf9c00-cc3e-11eb-9ede-e6f2a113bb7e.png)
-
-![after vote](https://user-images.githubusercontent.com/72904996/121797560-94b72000-cc3e-11eb-9b55-8470e5e52dfb.png)
-
-![ballot position](https://user-images.githubusercontent.com/72904996/121797563-9aad0100-cc3e-11eb-9afa-eda12498381e.png)
-
-![add candidate](https://user-images.githubusercontent.com/72904996/121797598-d3e57100-cc3e-11eb-9a36-0b3bdaae2d25.png)
-
-![candidate list](https://user-images.githubusercontent.com/72904996/121797568-a4ceff80-cc3e-11eb-80c6-041d8129a8c5.png)
-
-![positions](https://user-images.githubusercontent.com/72904996/121797573-aa2c4a00-cc3e-11eb-909b-96c8daf227e2.png)
-
-![voters list](https://user-images.githubusercontent.com/72904996/121797580-b2848500-cc3e-11eb-8f0a-c543844850a5.png)
-
-![votes](https://user-images.githubusercontent.com/72904996/121797583-b7e1cf80-cc3e-11eb-9eaa-c54dbdb58abd.png)
-
-![voter ballot](https://user-images.githubusercontent.com/72904996/121797601-dba51580-cc3e-11eb-92c4-8dee66f4cf57.png)
-
-![vote submitted](https://user-images.githubusercontent.com/72904996/121797604-e364ba00-cc3e-11eb-80e3-94370306b0e9.png)
